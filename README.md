@@ -5,8 +5,11 @@ This project is part of data analytics bootcamp at "pwc power bi job simulation"
 
 ## Overview
 
-PhoneNow, a telecommunications company, conducted a churn analysis to assess the rate at which customers are leaving their service. Churn rate is a crucial metric that indicates the percentage of customers who discontinue their service within a given period. 
-Importance of Understanding and Reducing Churn: 1).  High churn rates directly affect revenue. Acquiring new customers is typically more expensive than retaining existing ones. Therefore, reducing churn helps maintain a stable revenue stream. 2). A high churn rate can damage the company's reputation. Customers are more likely to trust and recommend a company with low churn rates, contributing to long-term success.
+PhoneNow, a telecommunications company, conducted a churn analysis to assess the rate at which customers are leaving their service. Churn rate is a crucial metric that indicates the percentage of customers who discontinue their service within a given period.
+
+Importance of Understanding and Reducing Churn:
+1).  High churn rates directly affect revenue. Acquiring new customers is typically more expensive than retaining existing ones. Therefore, reducing churn helps maintain a stable revenue stream. 
+2). A high churn rate can damage the company's reputation. Customers are more likely to trust and recommend a company with low churn rates, contributing to long-term success.
 ![PhoneNow Logo](https://flowium.com/wp-content/uploads/2022/07/customer-churn.png)
 
 ## Problem Statement
